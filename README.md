@@ -5,5 +5,6 @@
 -->
 Hi everyone!
 
-I'm Valentina, a passionate girl about building real-world software and exploring ML, data science, and full-stack development.
+I'm Valentina, a girl passionate about building real-world software and exploring ML, data science, and full-stack development.
+<br>
 Lately, I have been focusing on expanding my skills into robotics and embedded programming.

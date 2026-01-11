@@ -1,7 +1,8 @@
-[comment]: <> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinapieri&count_private=true&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinapieri&count_private=true&show_icons=true&theme=blueberry)
 
-[comment]: <> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinapieri&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinapieri&theme=blueberry)
+-->
 Hi everyone!
 
 I'm Valentina, a passionate girl about building real-world software and exploring ML, data science, and full-stack development.
